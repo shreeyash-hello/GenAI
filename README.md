@@ -2,7 +2,7 @@
 
 A fully local **PDF Question-Answering** application built using **Streamlit** and **Ollama**.  
 Upload a PDF → Process it → Ask questions → Get answers from a local LLM.  
-Everything runs **offline**, **private**, and **on your own machine** — no cloud APIs, no external servers.
+Everything runs **offline**, **private**, and **on your own machine**, no cloud APIs, no external servers.
 
 ---
 
